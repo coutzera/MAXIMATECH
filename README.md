@@ -18,6 +18,7 @@ Aqui organizo meus códigos, scripts e consultas SQL para todos os produtos, de 
 Este espaço contém **links, instruções e convenções** para todos os repositórios e projetos relacionados.
 
 > Cada produto possui seu **repositório próprio** com a estrutura padronizada:
+```
 /
     sql/
         produtos/
