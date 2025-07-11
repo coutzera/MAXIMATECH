@@ -1,14 +1,8 @@
-Ótimo! Vou te mandar agora o **README.md** completo em **formato de bloco de código Markdown fechado**, para copiar e colar sem problemas.  
-
----
-
-```markdown
 # 🚀 MAXIMATECH - Workspace Principal
 
 Bem-vindo ao meu **workspace central da MAXIMATECH**.  
 Aqui organizo meus códigos, scripts e consultas SQL para todos os produtos, de forma clara, colaborativa e versionada.
 
----
 
 ## 📦 Produtos Principais
 
@@ -18,7 +12,6 @@ Aqui organizo meus códigos, scripts e consultas SQL para todos os produtos, de 
 | **MAXGESTAO**       | Gestão administrativa e financeira.               | [🔗 maximatech-maxgestao](https://github.com/seu-org/maximatech-maxgestao)   |
 | **MAXROTEIRIZADOR** | Otimização de rotas de entrega.                   | [🔗 maximatech-maxroteirizador](https://github.com/seu-org/maximatech-maxroteirizador) |
 
----
 
 ## 🗂️ Organização deste Workspace
 
@@ -26,7 +19,6 @@ Este espaço contém **links, instruções e convenções** para todos os reposi
 
 > Cada produto possui seu **repositório próprio** com a estrutura padronizada:
 
-```
 /
 ├── sql/
 │   ├── produtos/
@@ -34,13 +26,11 @@ Este espaço contém **links, instruções e convenções** para todos os reposi
 ├── scripts/
 ├── docs/
 └── README.md
-```
 
 ✅ SQLs organizados por domínio  
 ✅ Scripts utilitários versionados  
 ✅ Documentação centralizada
 
----
 
 ## ✅ Convenções de Nomenclatura
 
@@ -49,8 +39,6 @@ Este espaço contém **links, instruções e convenções** para todos os reposi
 - Nomes descritivos e claros
 - Documentação em **Markdown (.md)**
 - Scripts com extensão apropriada (`.sql`, `.py`, `.ps1`, etc.)
-
----
 
 ## ⚙️ Como colaborar
 
@@ -63,15 +51,12 @@ git clone https://github.com/seu-org/maximatech-maxpedidos.git
 3️⃣ Escreva **commits descritivos e claros**.  
 4️⃣ Abra **Pull Requests** para revisão de código.
 
----
 
 ## 🧭 Guia para novos desenvolvedores
 
 ✅ Consulte o **README.md** em cada repositório de produto.  
 ✅ Use o padrão de **devcontainer** (Codespaces) para garantir ambiente idêntico entre todos os desenvolvedores.  
 ✅ Para dúvidas ou suporte, abra uma **Issue** ou use o nosso canal interno.
-
----
 
 ## ❤️ Sobre este Workspace
 
@@ -81,7 +66,3 @@ Aqui centralizo:
 - 📌 Links para todos os projetos
 - 📌 Boas práticas e convenções
 - 📌 Documentação geral
-
----
-
-```
