@@ -19,12 +19,16 @@ Este espaço contém **links, instruções e convenções** para todos os reposi
 
 > Cada produto possui seu **repositório próprio** com a estrutura padronizada:
 
+```
+/
 ├── sql/
 │   ├── produtos/
-│   └── filiais/
+│   ├── filiais/
+│   └── clientes/
 ├── scripts/
 ├── docs/
 └── README.md
+```
 
 ✅ SQLs organizados por domínio  
 ✅ Scripts utilitários versionados  
