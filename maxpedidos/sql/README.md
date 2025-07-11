@@ -11,10 +11,10 @@ Esta pasta reúne **consultas SQL organizadas por domínio**, para facilitar a m
 ## 🗂️ Estrutura de diretórios sugerida
 
 ```
-/sql
-    /filial       → Consultas relacionadas a dados de filiais
-    /produtos     → Consultas sobre cadastro e estoque de produtos
-    /pedidos      → Consultas envolvendo pedidos e suas movimentações
+📂 sql
+   📂 filial       → Consultas relacionadas a dados de filiais
+   📂 produtos     → Consultas sobre cadastro e estoque de produtos
+   📂 pedidos      → Consultas envolvendo pedidos e suas movimentações
 ```
 
 ## 🗒️ Observação
